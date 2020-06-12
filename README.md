@@ -1,3 +1,9 @@
+# Exercise Tracker
+
+This is a  MERN Stack project built to track a user's exercise schedule by a trainer.
+
+## Installing
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
